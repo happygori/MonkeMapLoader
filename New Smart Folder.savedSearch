@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CompatibleVersion</key>
+	<integer>1</integer>
+	<key>RawQuery</key>
+	<string>false</string>
+	<key>RawQueryDict</key>
+	<dict>
+		<key>FinderFilesOnly</key>
+		<true/>
+		<key>RawQuery</key>
+		<string>false</string>
+		<key>SearchScopes</key>
+		<array>
+			<string>/Users/nefilopez/Downloads/happygori-main 2</string>
+		</array>
+		<key>UserFilesOnly</key>
+		<true/>
+	</dict>
+	<key>SearchCriteria</key>
+	<dict>
+		<key>CurrentFolderPath</key>
+		<array>
+			<string>/Users/nefilopez/Downloads/happygori-main 2</string>
+		</array>
+		<key>FXScope</key>
+		<integer>1396925286</integer>
+		<key>FXScopeArrayOfPaths</key>
+		<array>
+			<string>/Users/nefilopez/Downloads/happygori-main 2</string>
+		</array>
+	</dict>
+	<key>SuggestedAttributes</key>
+	<array/>
+	<key>ViewSettings</key>
+	<dict>
+		<key>WindowState</key>
+		<dict>
+			<key>ContainerShowSidebar</key>
+			<true/>
+			<key>ShowPathbar</key>
+			<true/>
+			<key>ShowSidebar</key>
+			<true/>
+			<key>ShowStatusBar</key>
+			<false/>
+			<key>ShowTabView</key>
+			<false/>
+			<key>ShowToolbar</key>
+			<true/>
+			<key>SidebarWidthTenElevenOrLater</key>
+			<real>137</real>
+			<key>WindowBounds</key>
+			<string>{{662, 521}, {761, 434}}</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
